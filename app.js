@@ -11,7 +11,7 @@ const selButton_scissors = document.getElementById('sel-button-scissors')
 const SELECTIONS = [
     {
         name: 'rock',
-        img: '🪨',
+        img: '🗿',
         beats: 'scissors'
     },
     {
